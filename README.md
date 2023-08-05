@@ -1,5 +1,4 @@
-# Steps
-
+# Step during studies
 
 - Install redux toolkip
 
@@ -15,31 +14,31 @@
 
 - Install tailwind
 
-``` bash
+```bash
    npm install -D tailwindcss postcss autoprefixer
    npx tailwindcss init -p
 ```
 
 - Install lucide react
 
-``` bash
+```bash
    npm i lucide-react
 ```
 
 - Install react player
 
-``` bash
+```bash
    npm i react-player
 ```
 
 -Install tailwind scrollbars
 
-``` bash
+```bash
    npm install --save-dev tailwind-scrollbar
 ```
 
 - Intall Radix collapsible
 
-``` bash
+```bash
    npm install @radix-ui/react-collapsible
 ```
